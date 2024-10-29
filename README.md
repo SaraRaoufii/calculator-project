@@ -1,0 +1,2 @@
+This project was one of the exercises of the data structure lesson that I had to do. The purpose of this project was to work with the stack data structure and get familiar with infix and postfix expressions. In this project, we were supposed to simulate the performance of a calculator. I had to implement addition, subtraction, multiplication, division, exponentiation and parentheses operations. You can read the code implementation description here.
+
